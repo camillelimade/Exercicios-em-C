@@ -1,8 +1,10 @@
 #include <stdio.h>
+int main(){
 
-int main() {
-    printf("------------\n");
-    printf("Hello, world!\n");
-    printf("-------------");
+    printf("Testando compilação");
+
+    printf("-------------------------------\n");
+    printf("Executando meu primeiro programa em C :)");
+    printf("-------------------------------\n");
     return 0;
 }
