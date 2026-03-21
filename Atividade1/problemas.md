@@ -1,20 +1,37 @@
-# Atividade 1 – Conceitos Introdutórios 
- A pontuação desses problemas foram atribuídas por meu professor, resolvi manter para quem tiver interesse em destacar seu desempenho ao realizar esses exercícios.
- Fique a vontade!
+# Atividade 1 – Conceitos Introdutórios
+Este repositório contém a resolução de exercícios propostos na disciplina de Introdução à Programação, utilizando a linguagem C.
+A pontuação atribuída a cada problema foi definida pelo professor e mantida aqui como forma de referência de desempenho, sintam-se vontade para sua utilização. :)
 
-## Problema 01 (20 pontos) 
-Faça  um  programa  que  leia  a  duração  de  um  evento  em  segundos  e calcule  em  horas,  minutos  e segundos.
-- Exemplo:  duração = 3785 segundos *(equivale a 1 hora 3 minutos 5 segundos)*
+## Objetivo
+Praticar conceitos básicos de lógica de programação, como operações matemáticas, entrada e saída de dados e organização de algoritmos.
 
-## Problema 02 (20 pontos) 
-Faça um programa que leia o horário de entrada (hora e minuto) e a hora de saída (hora e minuto) de uma aula e informe de quanto tempo é a duração da aula. 
+## Problema 01 (20 pontos)
+Faça um programa que leia a duração de um evento em segundos e converta para horas, minutos e segundos.
+Exemplo:
+duração = 3785 segundos (equivale a 1 hora, 3 minutos e 5 segundos)
 
-## Problema 03 (20 pontos) 
-Faça um programa que calcule o salário líquido de um funcionário, que é calculado em função das horas trabalhadas no mês. Os dados fornecidos pelo usuário devem ser: a quantidade de horas trabalhadas no mês, o valor da hora trabalhada e o percentual (%) de desconto do INSS.
+## Problema 02 (20 pontos)
+Faça um programa que leia o horário de entrada (hora e minuto) e o horário de saída (hora e minuto) de uma aula, e informe a duração total.
 
-## Problema 04 (20 pontos) 
-Faça  um  programa  que,  recebendo  como  entrada  os  dados  de  dois  pontos  quaisquer  do  plano cartesiano P1(x1,y1) e P2(x2,y2), calcule e mostre a distância euclidiana entre eles, sendo esta calculada pela fórmula. 𝑑=2 𝑥1−𝑥2()2+𝑦1−𝑦2()2 
-- Dica: use a biblioteca math.h  
+## Problema 03 (20 pontos)
+Faça um programa que calcule o salário líquido de um funcionário com base em:
+- quantidade de horas trabalhadas no mês
+- valor da hora trabalhada
+- percentual de desconto do INSS
 
-## Problema 05 (20 pontos) 
-Faça um programa que calcule a média final de um aluno na disciplina de Introdução à Programação, em que  são  realizadas 4 avaliações: 2 avaliações na Etapa 1 e 2 avaliações na Etapa 2. O programa deve calcular a média de cada etapa e, em seguida, calcular a média final da disciplina, sendo que a Média da Etapa 1 tempo peso 2 e a Média da Etapa 2 tem peso 3. Mostre na tela o resultado da média final. 
+## Problema 04 (20 pontos)
+Faça um programa que receba dois pontos no plano cartesiano P1(x1, y1) e P2(x2, y2) e calcule a distância euclidiana entre eles.
+- Dica: utilizar a biblioteca math.h
+
+## Problema 05 (20 pontos)
+Faça um programa que calcule a média final de um aluno considerando:
+- 2 avaliações na Etapa 1
+- 2 avaliações na Etapa 2
+Regras:
+- Média da Etapa 1 possui peso 2
+- Média da Etapa 2 possui peso 3
+O programa deve calcular:
+1. Média de cada etapa
+2. Média final ponderada
+
+Esse repositório será alimentado de forma progressiva, ou seja, ao passo em que a disciplina avançar.
