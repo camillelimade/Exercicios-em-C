@@ -4,11 +4,15 @@ Este repositório contém a resolução de exercícios propostos na disciplina d
 Os problemas desta atividade envolvem principalmente raciocínio lógico e uso de estruturas condicionais, com aplicação em cenários mais próximos de situações reais.
 
 ## Objetivo
-
 Desenvolver a capacidade de resolução de problemas, utilizando lógica de programação e estruturas de decisão para tratar diferentes cenários.
 
 ## Questão 1 (15 pontos)
 Simular o corte de uma nota de 50 reais em duas partes, determinando qual lado possui maior área.
+Observações:
+- Largura da nota: 160 
+- Altura da nota: 70
+- Calculo de área = Largura x Altura
+
 O corte é definido por dois pontos:
 - B: posição inicial na base
 - T: posição final no topo
