@@ -5,25 +5,25 @@ A pontuação atribuída a cada problema foi definida pelo professor e mantida a
 ## Objetivo
 Praticar conceitos básicos de lógica de programação, como operações matemáticas, entrada e saída de dados e organização de algoritmos.
 
-## Problema 01 (20 pontos)
+## Questão 1 (20 pontos)
 Faça um programa que leia a duração de um evento em segundos e converta para horas, minutos e segundos.
 Exemplo:
 duração = 3785 segundos (equivale a 1 hora, 3 minutos e 5 segundos)
 
-## Problema 02 (20 pontos)
+## Questão 2 (20 pontos)
 Faça um programa que leia o horário de entrada (hora e minuto) e o horário de saída (hora e minuto) de uma aula, e informe a duração total.
 
-## Problema 03 (20 pontos)
+## Questão 3 (20 pontos)
 Faça um programa que calcule o salário líquido de um funcionário com base em:
 - quantidade de horas trabalhadas no mês
 - valor da hora trabalhada
 - percentual de desconto do INSS
 
-## Problema 04 (20 pontos)
+## Questão 4 (20 pontos)
 Faça um programa que receba dois pontos no plano cartesiano P1(x1, y1) e P2(x2, y2) e calcule a distância euclidiana entre eles.
 - Dica: utilizar a biblioteca math.h
 
-## Problema 05 (20 pontos)
+## Questão 5 (20 pontos)
 Faça um programa que calcule a média final de um aluno considerando:
 - 2 avaliações na Etapa 1
 - 2 avaliações na Etapa 2
