@@ -32,7 +32,6 @@ O programa deve imprimir o valor de cada parcela.
 
 ## Questão 3 (15 pontos)
 Simular a fuga de um personagem em uma pista circular com 16 posições (0 a 15).
-
 Entradas:
 - H: posição do helicóptero
 - P: posição do policial
