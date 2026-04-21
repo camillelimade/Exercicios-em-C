@@ -10,4 +10,4 @@ int main() {
     precoDeVenda = custoDeFab * percentualLucro;
     printf("Esse e o preco de venda desse carro: ");
     printf("%.2f", precoDeVenda);
-}
+} 
